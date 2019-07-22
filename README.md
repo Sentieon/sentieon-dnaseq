@@ -1,2 +1,0 @@
-# sentieon-dnaseq
-Sentieon DNAseq
