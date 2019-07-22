@@ -17,7 +17,7 @@ ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/NA12878/NIST_NA12878_HG001_HiSeq_
 
 Hg38 and other databases were downloaded from GATK resource bundle.
 
-See here:https://software.broadinstitute.org/gatk/download/bundle
+See here: https://software.broadinstitute.org/gatk/download/bundle
 
 +--------------------------+------------------------------------------------------+
 | Arguments                | File                                                 |
