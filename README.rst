@@ -15,6 +15,7 @@ Fastq files of NA12878 were downloaded from ftp://ftp-trace.ncbi.nlm.nih.gov/gia
 
 Hg38 and other databases were downloaded from GATK resource bundle.
 ftp://gsapubftp-anonymous@ftp.broadinstitute.org/bundle/hg38/
+
 +--------------------------+------------------------------------------------------+
 | Arguments                | File                                                 |
 +==========================+======================================================+
