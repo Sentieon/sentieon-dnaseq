@@ -11,9 +11,12 @@ support@sentieon.com.
 Input and references
 ---------------------------------------------------------
 
-Fastq files of NA12878 were downloaded from ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/NA12878/NIST_NA12878_HG001_HiSeq_300x/140127_D00360_0011_AHGV6ADXX/Project_RM8398/
+Fastq files of NA12878 were downloaded from
+
+ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/NA12878/NIST_NA12878_HG001_HiSeq_300x/140127_D00360_0011_AHGV6ADXX/Project_RM8398/
 
 Hg38 and other databases were downloaded from GATK resource bundle.
+
 ftp://gsapubftp-anonymous@ftp.broadinstitute.org/bundle/hg38/
 
 +--------------------------+------------------------------------------------------+
