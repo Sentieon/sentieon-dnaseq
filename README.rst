@@ -153,6 +153,20 @@ Sentieon*:
       
 Germline variant caller
 ---------------------------------------------------------
+**Command line to compare GATK and Sentieon DNAseq results:**
+
+Output of GATK is used as the baseline. 
+
+.. code-block:: bash
+
+    hap.py \
+    GATK.vcf.gz \
+    Sentieon.vcf.gz \
+    -o output_dir \
+    -r Homo_sapiens_assembly38.fasta \
+    --engine=vcfeval \
+    --engine-vcfeval-template hs38.sdf
+
 GATK 3.7/3.8:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 **Command line:**
