@@ -339,6 +339,9 @@ Runtime
 -  Local SSD Scratch Disk 2x375G
 -  centos-7-v20190619
 
+.. image:: runtime.png
+    :alt: runtime comparison
+
 +-----------------+----------+----------+----------+----------+
 | Stage           | Sentieon | GATK3.8  | GATK4.0  | GATK4.1  |
 +=================+==========+==========+==========+==========+
