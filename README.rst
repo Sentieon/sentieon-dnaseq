@@ -1,3 +1,4 @@
+
 Match the results of GATK germline pipeline with Sentieon
 =================================================================
 
@@ -339,9 +340,11 @@ Runtime
 -  Local SSD Scratch Disk 2x375G
 -  centos-7-v20190619
 
-.. image:: runtime.png
-    :alt: runtime comparison
 
+.. raw:: html
+
+    <img src="https://github.com/Sentieon/sentieon-dnaseq/blob/master/runtime.png" width="700px">
+    
 +-----------------+----------+----------+----------+----------+
 | Stage           | Sentieon | GATK3.8  | GATK4.0  | GATK4.1  |
 +=================+==========+==========+==========+==========+
