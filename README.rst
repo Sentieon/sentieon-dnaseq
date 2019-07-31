@@ -6,7 +6,7 @@ Introduction
 -------------
 
 This documents describes the capabilities of Sentieon DNAseq pipeline matching different versions of GATK germline pipelines. If you have any additional
-questions, please contact the technical support at Sentieon Inc. at
+questions, please visit https://www.sentieon.com/support or contact the technical support at Sentieon Inc. at
 support@sentieon.com.
 
 Input and references
