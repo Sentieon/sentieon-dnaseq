@@ -1,3 +1,4 @@
+*Deprecated. Updated benchmarks available at https://github.com/Sentieon/sentieon-matching-performance*
 
 Match the results of GATK germline pipeline with Sentieon
 =================================================================
